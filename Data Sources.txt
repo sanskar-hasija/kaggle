@@ -1,0 +1,14 @@
+ART - https://www.kaggle.com/datasets/bryanb/abstract-art-gallery
+Food- https://www.kaggle.com/datasets/abhijeetbhilare/world-cuisines
+Furniture - https://www.kaggle.com/datasets/lasaljaywardena/furniture-images-dataset
+places - https://www.kaggle.com/datasets/ilyaryabov/pictures-of-famous-places?select=50+most+famous+places+in+the+world.zip
+toys - 1. https://www.kaggle.com/datasets/anilvemula/product-toy-data
+	 2. https://www.kaggle.com/datasets/jaidevchittoria/babies-products-and-toys?select=toys
+clothes - https://www.kaggle.com/datasets/agrigorev/clothing-dataset-full?select=images_compressed
+Packaged Goods - Google Images
+
+others:
+1. meme - https://www.kaggle.com/datasets/williamscott701/memotion-dataset-7k
+2. cars - https://www.kaggle.com/datasets/eduardo4jesus/stanford-cars-dataset
+3. illustrations - https://www.kaggle.com/datasets/profnote/pixiv-popular-illustrations
+
